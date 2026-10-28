@@ -10,7 +10,6 @@
 ---
 
 ```bash
-$ cat about.txt
 name      : Jii
 location  : Bandung, Indonesia 🇮🇩
 studying  : D4 Informatics Engineering @ ULBI
