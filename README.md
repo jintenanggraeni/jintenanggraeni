@@ -51,7 +51,7 @@ focus     : web apps, data analysis, clean UI
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jinten Anggraeni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinten-anggraeni-a4895038a)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jintenanggraeni6@gmail.com)
 
 </div>
